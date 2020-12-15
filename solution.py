@@ -43,4 +43,7 @@ df_result['Service'] = df_result['Service'] + df_result['Unnamed: 0']
 # removed the unamed column
 df_result = df_result.drop(['Unnamed: 0'], axis=1)
 
-print(df_result)
+path = os.getcwd()
+
+# convert to csv file
+df_result.to_csv(path + '/phone_costs.csv', index=True, encoding='utf-8')

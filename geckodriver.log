@@ -1380,3 +1380,302 @@ JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2
 JavaScript error: http://maps.google.com/maps/api/js?sensor=false&client=gme-hutchison3g, line 80: Error: Could not load "controls".
 JavaScript error: http://maps.google.com/maps/api/js?sensor=false&client=gme-hutchison3g, line 80: Error: Could not load "usage".
 1608045163798	Marionette	INFO	Stopped listening on port 53339
+1608045819015	geckodriver	INFO	Listening on 127.0.0.1:56865
+1608045820032	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gx/ddlh5g211x3268q2vmfp_th00000gn/T/rust_mozprofilel4mOVK"
+1608045820540	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1608045820639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1608045820639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1608045820639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1608045820639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1608045822631	Marionette	INFO	Listening on port 56876
+1608045822709	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=br&net1=te&net2=t4&net3=v4, line 459: TypeError: document.getElementById(...) is null
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c.js, line 649: unreachable code after return statement
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2.13.1_fix/OpenLayers.js, line 185: TypeError: this.size is null
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2.13.1_fix/OpenLayers.js, line 185: TypeError: this.size is null
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=pt&net1=me,m1&net2=m3,n3,o3&net3=m4,n4, line 478: TypeError: document.getElementById(...) is null
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=cl&net1=sm,ep&net2=c3,e3,tm&net3=m4, line 477: TypeError: document.getElementById(...) is null
+1608045870721	geckodriver	INFO	Listening on 127.0.0.1:57299
+1608045870729	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gx/ddlh5g211x3268q2vmfp_th00000gn/T/rust_mozprofileNSg1bA"
+1608045871266	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1608045871368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1608045871368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1608045871368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1608045871368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1608045873104	Marionette	INFO	Listening on port 57304
+1608045873171	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=br&net1=te&net2=t4&net3=v4, line 459: TypeError: document.getElementById(...) is null
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c.js, line 649: unreachable code after return statement
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2.13.1_fix/OpenLayers.js, line 185: TypeError: this.size is null
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2.13.1_fix/OpenLayers.js, line 185: TypeError: this.size is null
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=pt&net1=me,m1&net2=m3,n3,o3&net3=m4,n4, line 478: TypeError: document.getElementById(...) is null
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=cl&net1=sm,ep&net2=c3,e3,tm&net3=m4, line 477: TypeError: document.getElementById(...) is null
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=is&net1=la,nb&net2=o3,no&net3=N4, line 461: TypeError: document.getElementById(...) is null
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c.js, line 649: unreachable code after return statement
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2.13.1_fix/OpenLayers.js, line 185: TypeError: this.size is null
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2.13.1_fix/OpenLayers.js, line 185: TypeError: this.size is null
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c.js, line 649: unreachable code after return statement
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2.13.1_fix/OpenLayers.js, line 185: TypeError: this.size is null
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2.13.1_fix/OpenLayers.js, line 185: TypeError: this.size is null
+1608045897144	Marionette	INFO	Stopped listening on port 57304
+JavaScript error: http://maps.google.com/maps-api-v3/api/js/42/9/intl/en_gb/common.js, line 59: NS_ERROR_NOT_INITIALIZED: 
+1608045968233	geckodriver	INFO	Listening on 127.0.0.1:58031
+1608045968241	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gx/ddlh5g211x3268q2vmfp_th00000gn/T/rust_mozprofileFQDzPj"
+1608045968750	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1608045968848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1608045968848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1608045968848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1608045968848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1608045970606	Marionette	INFO	Listening on port 58036
+1608045970706	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=br&net1=te&net2=t4&net3=v4, line 459: TypeError: document.getElementById(...) is null
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2.13.1_fix/OpenLayers.js, line 185: TypeError: this.size is null
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2.13.1_fix/OpenLayers.js, line 185: TypeError: this.size is null
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c.js, line 649: unreachable code after return statement
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=pt&net1=me,m1&net2=m3,n3,o3&net3=m4,n4, line 478: TypeError: document.getElementById(...) is null
+JavaScript error: https://three-resources.digital.medallia.eu/resources/dist/assets/js/liveform-web-vendor-554ad4cd26.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=cl&net1=sm,ep&net2=c3,e3,tm&net3=m4, line 477: TypeError: document.getElementById(...) is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 179: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 196}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 196}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1608046012201	geckodriver	INFO	Listening on 127.0.0.1:58417
+1608046012209	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gx/ddlh5g211x3268q2vmfp_th00000gn/T/rust_mozprofileG0qmLF"
+1608046012662	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1608046012753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1608046012753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1608046012753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1608046012753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1608046014388	Marionette	INFO	Listening on port 58422
+1608046014462	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=br&net1=te&net2=t4&net3=v4, line 459: TypeError: document.getElementById(...) is null
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c.js, line 649: unreachable code after return statement
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2.13.1_fix/OpenLayers.js, line 185: TypeError: this.size is null
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2.13.1_fix/OpenLayers.js, line 185: TypeError: this.size is null
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=pt&net1=me,m1&net2=m3,n3,o3&net3=m4,n4, line 478: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=cl&net1=sm,ep&net2=c3,e3,tm&net3=m4, line 477: TypeError: document.getElementById(...) is null
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=is&net1=la,nb&net2=o3,no&net3=N4, line 461: TypeError: document.getElementById(...) is null
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c.js, line 649: unreachable code after return statement
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2.13.1_fix/OpenLayers.js, line 185: TypeError: this.size is null
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2.13.1_fix/OpenLayers.js, line 185: TypeError: this.size is null
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2.13.1_fix/OpenLayers.js, line 185: TypeError: this.size is null
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2.13.1_fix/OpenLayers.js, line 185: TypeError: this.size is null
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1608046043598	Marionette	INFO	Stopped listening on port 58422
+1608046216670	geckodriver	INFO	Listening on 127.0.0.1:59671
+1608046217686	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gx/ddlh5g211x3268q2vmfp_th00000gn/T/rust_mozprofileMS2t5v"
+1608046218152	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1608046218245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1608046218245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1608046218245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1608046218245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1608046220290	Marionette	INFO	Listening on port 59683
+1608046220367	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=br&net1=te&net2=t4&net3=v4, line 459: TypeError: document.getElementById(...) is null
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c.js, line 649: unreachable code after return statement
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2.13.1_fix/OpenLayers.js, line 185: TypeError: this.size is null
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2.13.1_fix/OpenLayers.js, line 185: TypeError: this.size is null
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1608046260562	geckodriver	INFO	Listening on 127.0.0.1:60045
+1608046260571	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gx/ddlh5g211x3268q2vmfp_th00000gn/T/rust_mozprofilerM2cNN"
+1608046261063	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1608046261154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1608046261154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1608046261154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1608046261155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1608046262793	Marionette	INFO	Listening on port 60050
+1608046262827	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=br&net1=te&net2=t4&net3=v4, line 459: TypeError: document.getElementById(...) is null
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c.js, line 649: unreachable code after return statement
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2.13.1_fix/OpenLayers.js, line 185: TypeError: this.size is null
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2.13.1_fix/OpenLayers.js, line 185: TypeError: this.size is null
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=pt&net1=me,m1&net2=m3,n3,o3&net3=m4,n4, line 478: TypeError: document.getElementById(...) is null
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=cl&net1=sm,ep&net2=c3,e3,tm&net3=m4, line 477: TypeError: document.getElementById(...) is null
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=is&net1=la,nb&net2=o3,no&net3=N4, line 461: TypeError: document.getElementById(...) is null
+1608046314913	geckodriver	INFO	Listening on 127.0.0.1:60483
+1608046314923	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gx/ddlh5g211x3268q2vmfp_th00000gn/T/rust_mozprofileXWmmYe"
+1608046315408	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1608046315498	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1608046315498	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1608046315498	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1608046315499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1608046317189	Marionette	INFO	Listening on port 60488
+1608046317273	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=br&net1=te&net2=t4&net3=v4, line 459: TypeError: document.getElementById(...) is null
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c.js, line 649: unreachable code after return statement
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2.13.1_fix/OpenLayers.js, line 185: TypeError: this.size is null
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2.13.1_fix/OpenLayers.js, line 185: TypeError: this.size is null
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=pt&net1=me,m1&net2=m3,n3,o3&net3=m4,n4, line 478: TypeError: document.getElementById(...) is null
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=cl&net1=sm,ep&net2=c3,e3,tm&net3=m4, line 477: TypeError: document.getElementById(...) is null
+1608046367030	geckodriver	INFO	Listening on 127.0.0.1:60914
+1608046367039	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gx/ddlh5g211x3268q2vmfp_th00000gn/T/rust_mozprofileUaQV1X"
+1608046367589	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1608046367683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1608046367683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1608046367683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1608046367683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1608046369488	Marionette	INFO	Listening on port 60919
+1608046369505	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1608046384146	Marionette	INFO	Stopped listening on port 51028
+1608046390263	Marionette	INFO	Stopped listening on port 56876
+1608046392541	Marionette	INFO	Stopped listening on port 60050
+1608046394758	Marionette	INFO	Stopped listening on port 60488
+1608046398127	Marionette	INFO	Stopped listening on port 60919
+1608046403474	geckodriver	INFO	Listening on 127.0.0.1:61131
+1608046403485	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gx/ddlh5g211x3268q2vmfp_th00000gn/T/rust_mozprofile18mN44"
+1608046403885	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1608046403979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1608046403979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1608046403979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1608046403979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1608046405617	Marionette	INFO	Listening on port 61136
+1608046405635	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=br&net1=te&net2=t4&net3=v4, line 459: TypeError: document.getElementById(...) is null
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2.13.1_fix/OpenLayers.js, line 185: TypeError: this.size is null
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2.13.1_fix/OpenLayers.js, line 185: TypeError: this.size is null
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c.js, line 649: unreachable code after return statement
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=pt&net1=me,m1&net2=m3,n3,o3&net3=m4,n4, line 478: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=cl&net1=sm,ep&net2=c3,e3,tm&net3=m4, line 477: TypeError: document.getElementById(...) is null
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=is&net1=la,nb&net2=o3,no&net3=N4, line 461: TypeError: document.getElementById(...) is null
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c.js, line 649: unreachable code after return statement
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2.13.1_fix/OpenLayers.js, line 185: TypeError: this.size is null
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2.13.1_fix/OpenLayers.js, line 185: TypeError: this.size is null
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2.13.1_fix/OpenLayers.js, line 185: TypeError: this.size is null
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/openlayers/OpenLayers-2.13.1_fix/OpenLayers.js, line 185: TypeError: this.size is null
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c.js, line 649: unreachable code after return statement
+1608046429756	Marionette	INFO	Stopped listening on port 61136
