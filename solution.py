@@ -1,10 +1,22 @@
 import requests
+from selenium import webdriver
 import bs4
 import pandas as pd
 
-res = requests.get('http://www.three.co.uk/support/roaming/brazil')
+url = "http://www.three.co.uk/Support/Roaming_and_international/Roaming_Abroad/Destinations?#countries2"
 
-soup = bs4.BeautifulSoup(res.text, 'lxml')
+# create a new Firefox session
+driver = webdriver.Firefox()
+driver.implicitly_wait(30)
+driver.get(url)
+Xpath = '//ul//li[@class="underline bold"]//a[@title="Brazil."]'
+# python_button = driver.find_element_by_xpath(Xpath)
+python_button = driver.find_element_by_link_text('Brazil.')
+python_button.click()
+
+# res = requests.get('http://www.three.co.uk/support/roaming/brazil')
+
+soup = bs4.BeautifulSoup(driver.page_source, 'lxml')
 
 datalist = []
 

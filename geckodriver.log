@@ -1,0 +1,183 @@
+1608037070830	geckodriver	INFO	Listening on 127.0.0.1:55153
+1608037071701	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gx/ddlh5g211x3268q2vmfp_th00000gn/T/rust_mozprofile8O5b6a"
+1608037074174	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1608037074174	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1608037074174	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1608037074174	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1608037076101	Marionette	INFO	Listening on port 55168
+1608037076194	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+[Parent 96758, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 96758, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 96758, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=br&net1=te&net2=t4&net3=v4, line 459: TypeError: document.getElementById(...) is null
+[Parent 96758, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 96758, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 96776, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1608037854284	geckodriver	INFO	Listening on 127.0.0.1:58821
+1608037855291	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gx/ddlh5g211x3268q2vmfp_th00000gn/T/rust_mozprofileNiuRsA"
+1608037855989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1608037855990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1608037855990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1608037855990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1608037857876	Marionette	INFO	Listening on port 58833
+1608037857959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+[Parent 4943, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 4943, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 4943, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1608037980064	geckodriver	INFO	Listening on 127.0.0.1:59591
+1608037981078	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gx/ddlh5g211x3268q2vmfp_th00000gn/T/rust_mozprofileNpqH14"
+1608037981683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1608037981683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1608037981683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1608037981683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1608037983272	Marionette	INFO	Listening on port 59604
+1608037983336	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+[Parent 6274, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 6274, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 6274, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 335"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:335:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:224:10
+Line: 335, column: 0
+console.error: ({})
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=br&net1=te&net2=t4&net3=v4, line 459: TypeError: document.getElementById(...) is null
+[Parent 6274, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 6274, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 335"  data: no]
+Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:335:26
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:224:10
+Line: 335, column: 0
+console.error: ({})
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+[Parent 6274, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:501:26\ngetGrids@resource://devtools/server/actors/layout.js:506:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+[Parent 6274, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1608038127132	geckodriver	INFO	Listening on 127.0.0.1:60437
+1608038128134	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gx/ddlh5g211x3268q2vmfp_th00000gn/T/rust_mozprofileCpveEs"
+1608038128845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1608038128845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1608038128846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1608038128846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1608038130501	Marionette	INFO	Listening on port 60449
+1608038130595	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+[Parent 7802, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 7802, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 7802, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1608038154631	geckodriver	INFO	Listening on 127.0.0.1:60686
+1608038154640	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gx/ddlh5g211x3268q2vmfp_th00000gn/T/rust_mozprofileYIfWic"
+1608038155145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1608038155145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1608038155145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1608038155145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1608038156707	Marionette	INFO	Listening on port 60691
+1608038156798	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+[Parent 8124, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 8124, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 8124, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1608038169235	geckodriver	INFO	Listening on 127.0.0.1:60879
+1608038170251	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gx/ddlh5g211x3268q2vmfp_th00000gn/T/rust_mozprofileQmvP2H"
+1608038170834	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1608038170835	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1608038170835	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1608038170835	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1608038172501	Marionette	INFO	Listening on port 60890
+1608038172508	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+[Parent 8254, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 8254, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 8254, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 8254, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1608038204551	geckodriver	INFO	Listening on 127.0.0.1:61183
+1608038205554	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gx/ddlh5g211x3268q2vmfp_th00000gn/T/rust_mozprofileBKQoCv"
+1608038206202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1608038206202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1608038206202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1608038206202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1608038207784	Marionette	INFO	Listening on port 61196
+1608038207799	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+[Parent 8644, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 8644, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 8644, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1608038291540	geckodriver	INFO	Listening on 127.0.0.1:61807
+1608038292546	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gx/ddlh5g211x3268q2vmfp_th00000gn/T/rust_mozprofileHtLkCF"
+1608038293134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1608038293134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1608038293134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1608038293134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1608038294733	Marionette	INFO	Listening on port 61818
+1608038294796	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+[Parent 9586, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 9586, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 9586, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1608038308939	geckodriver	INFO	Listening on 127.0.0.1:62024
+1608038309949	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gx/ddlh5g211x3268q2vmfp_th00000gn/T/rust_mozprofile2DzqRh"
+1608038310601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1608038310601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1608038310601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1608038310601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1608038312397	Marionette	INFO	Listening on port 62036
+1608038312419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+[Parent 9716, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 9716, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 9716, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1608038332717	geckodriver	INFO	Listening on 127.0.0.1:62278
+1608038333731	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gx/ddlh5g211x3268q2vmfp_th00000gn/T/rust_mozprofileXynTyw"
+1608038334356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1608038334357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1608038334357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1608038334357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1608038336084	Marionette	INFO	Listening on port 62289
+1608038336098	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+[Parent 10050, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 10050, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 10050, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1608038353242	Marionette	INFO	Stopped listening on port 58833
+1608038355702	Marionette	INFO	Stopped listening on port 59604
+1608038361972	Marionette	INFO	Stopped listening on port 62036
+1608038363221	Marionette	INFO	Stopped listening on port 62289
+1608038364078	Marionette	INFO	Stopped listening on port 61196
+1608038366222	Marionette	INFO	Stopped listening on port 60449
+1608038368122	Marionette	INFO	Stopped listening on port 60691
+1608038369893	Marionette	INFO	Stopped listening on port 60890
+1608038371600	Marionette	INFO	Stopped listening on port 61818
+1608038710215	geckodriver	INFO	Listening on 127.0.0.1:64236
+1608038711227	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gx/ddlh5g211x3268q2vmfp_th00000gn/T/rust_mozprofile5xcqK3"
+1608038711771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1608038711771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1608038711771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1608038711771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1608038713425	Marionette	INFO	Listening on port 64248
+1608038713477	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+[Parent 13948, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Parent 13948, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: http://www.three.co.uk/static/ThreeWeb/intl-roaming-new/js/intl-roaming-template.min.js, line 1: ReferenceError: Handlebars is not defined
+JavaScript error: https://assets.sitescdn.net/answers/v0.9.6/answers.min.js, line 1: Error: Failed to add component
+JavaScript warning: http://covmaps-gbhu.europa.uk.com/apps/nipro_support_gbhu_v2c_cta.js, line 649: unreachable code after return statement
+[Parent 13948, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+JavaScript error: http://covmaps-gbhu.europa.uk.com/apps/nipro_gbhu_v2_cta.php?cc=br&net1=te&net2=t4&net3=v4, line 459: TypeError: document.getElementById(...) is null
+[Parent 13948, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
