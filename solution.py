@@ -34,8 +34,13 @@ driver.quit()
 df_result = pd.concat([pd.DataFrame(datalist[i])
                        for i in range(len(datalist))], keys=query)
 
+# removes all the NaN values
+df_result = df_result.fillna('')
+
 # add unamed column to the service column for readability
-df_result['Service'] = df_result['Service'].fillna(
-    '') + df_result['Unnamed: 0'].fillna('')
+df_result['Service'] = df_result['Service'] + df_result['Unnamed: 0']
+
+# removed the unamed column
+df_result = df_result.drop(['Unnamed: 0'], axis=1)
 
 print(df_result)
