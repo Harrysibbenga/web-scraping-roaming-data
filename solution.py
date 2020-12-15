@@ -1,4 +1,3 @@
-import requests
 from selenium import webdriver
 import bs4
 import pandas as pd
@@ -23,7 +22,7 @@ for country in query:
 
     # get the table
     table = soup.select("table")
-    # convert the table into a data frame using pandas
+    # convert the table data into a data that will be used in the dataframe with Pandas
     df = pd.read_html(str(table), header=0)
     # append data to data list
     datalist.append(df[0])
@@ -32,7 +31,11 @@ for country in query:
 
 driver.quit()
 
-result = pd.concat([pd.DataFrame(datalist[i])
-                    for i in range(len(datalist))], keys=query)
+df_result = pd.concat([pd.DataFrame(datalist[i])
+                       for i in range(len(datalist))], keys=query)
 
-print(result)
+# add unamed column to the service column for readability
+df_result['Service'] = df_result['Service'].fillna(
+    '') + df_result['Unnamed: 0'].fillna('')
+
+print(df_result)
