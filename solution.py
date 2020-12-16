@@ -62,3 +62,6 @@ path = os.getcwd()
 
 # convert to csv file
 df_result.to_csv(path + '/phone_costs.csv', index=True, encoding='utf-8')
+
+if __name__ == "main":
+    search_for_countries()
