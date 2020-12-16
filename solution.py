@@ -3,15 +3,8 @@ import bs4
 import pandas as pd
 import os
 
-url = "http://www.three.co.uk/Support/Roaming_and_international/Roaming_Abroad/Destinations?#countries2"
 
-query = ["Brazil.", "South Africa.", "Portugal.",
-         "Chile.", "Iceland.", "China.", "Madagascar."]
-
-datalist = []
-
-
-def search_for_countries():
+def search_for_countries(url, query):
     '''
         Runs selenium using firefox webdriver.
         Loops through the query list above.
@@ -20,6 +13,9 @@ def search_for_countries():
         Store the data in the datalist variable.
         Quit once looped through all vaiables.
     '''
+
+    datalist = []
+
     # create a new Firefox session
     driver = webdriver.Firefox()
     driver.implicitly_wait(30)
@@ -42,8 +38,15 @@ def search_for_countries():
 
     driver.quit()
 
+    return datalist
 
-search_for_countries()
+
+query = ["Brazil.", "South Africa.", "Portugal.",
+         "Chile.", "Iceland.", "China.", "Madagascar."]
+
+url = "http://www.three.co.uk/Support/Roaming_and_international/Roaming_Abroad/Destinations?#countries2"
+
+datalist = search_for_countries(url, query)
 
 # gets the datalist list and concats to a pandas dataframe
 df_result = pd.concat([pd.DataFrame(datalist[i])
@@ -62,6 +65,3 @@ path = os.getcwd()
 
 # convert to csv file
 df_result.to_csv(path + '/phone_costs.csv', index=True, encoding='utf-8')
-
-if __name__ == "__main__":
-    search_for_countries()
